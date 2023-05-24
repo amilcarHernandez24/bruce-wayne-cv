@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.titles {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    color: #005677;
+}
+
+.img-batman-container {
+    background-color: #e3e3e3;
+}
+
+.main-title {
+    background-color: #c4c4c4;
+}
+
+.sec-title {
+    background-color: #c4c4c4;
+}
+
+.data-list span {
+    font-style: italic;
+    font-weight: bold;
+}
+.fa-date, .el-date {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.fa-date-ul, .el-date-ul {
+    list-style: none;
+}
+
+.footer {
+    background-color: #005677;
+    color: #fff;
+}
